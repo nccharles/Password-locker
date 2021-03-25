@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 import pyperclip
-from user_credentials import User, Credential
+from user import User, Credential
 
 def create_user(fname,lname,password):
 	'''
