@@ -1,6 +1,6 @@
 # Password Locker
 
-## Built By [Charles](https://github.com/nccharles250/)
+## Developed By [Charles NDAYISABA](https://github.com/nccharles/)
 
 ## Description
 Password Locker is a python application runs in terminal that helps us manage our passwords and even generate new passwords for us.
@@ -38,7 +38,7 @@ As a user:
 ### Cloning
 * In your terminal:
         
-        $ git clone https://github.com/marynganga/Password-Locker/
+        $ git clone https://github.com/nccharles/Password-Locker/
         $ cd Password-Locker
 
 ## Running the Application
@@ -50,11 +50,11 @@ As a user:
 ## Testing the Application
 * To run the tests for the class file:
 
-        $ python3.8 user_credentials_test.py
+        $ python3.8 user_test.py
         
 ## Technologies Used
 * Python3.8
 
 ## License
-MIT &copy;2021 [Charles NDAYISABA](https://github.com/nccharles250/)
+MIT &copy;2021 [Charles NDAYISABA](https://github.com/nccharles/)
 
